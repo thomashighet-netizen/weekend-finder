@@ -1,7 +1,7 @@
 # Weekend Finder 📅
 
 Find the weekend that works for everyone.
-
+ 
 ---
 
 ## Deployment Guide
